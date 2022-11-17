@@ -10,28 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
-  m_Name: cave__random_background
+  m_Name: random_stalactites
   m_EditorClassIdentifier: 
-  m_DefaultSprite: {fileID: 1730194976, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+  m_DefaultSprite: {fileID: -123085314, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
   m_DefaultGameObject: {fileID: 0}
   m_DefaultColliderType: 1
   m_TilingRules:
   - m_Id: 0
     m_Sprites:
-    - {fileID: 1730194976, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 1176935470, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: -1339693989, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 1758720561, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: -1182690655, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 120070106, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 534563072, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 1350840240, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
-    - {fileID: 1730194976, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: -354380968, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: -1175936402, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: 644781966, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: 930113142, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: -123085314, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: 915439837, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
+    - {fileID: 1666375811, guid: 01ddfc34143b3b94b80b7e3b8b4e1ff3, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
     m_PerlinScale: 0.5
-    m_Output: 1
+    m_Output: 2
     m_ColliderType: 1
     m_RandomTransform: 0
     m_Neighbors: 
