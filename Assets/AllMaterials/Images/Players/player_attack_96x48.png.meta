@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -108,12 +120,12 @@ TextureImporter:
       name: player_attack_96x48_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 35
         y: 48
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -129,12 +141,12 @@ TextureImporter:
       name: player_attack_96x48_1
       rect:
         serializedVersion: 2
-        x: 96
+        x: 131
         y: 48
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,12 +162,12 @@ TextureImporter:
       name: player_attack_96x48_2
       rect:
         serializedVersion: 2
-        x: 192
+        x: 227
         y: 48
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -171,12 +183,12 @@ TextureImporter:
       name: player_attack_96x48_3
       rect:
         serializedVersion: 2
-        x: 288
+        x: 324
         y: 48
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -192,12 +204,12 @@ TextureImporter:
       name: player_attack_96x48_4
       rect:
         serializedVersion: 2
-        x: 0
+        x: 36
         y: 0
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.34210527, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -213,12 +225,12 @@ TextureImporter:
       name: player_attack_96x48_5
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 0
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -234,12 +246,12 @@ TextureImporter:
       name: player_attack_96x48_6
       rect:
         serializedVersion: 2
-        x: 192
+        x: 131
         y: 0
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -255,12 +267,12 @@ TextureImporter:
       name: player_attack_96x48_7
       rect:
         serializedVersion: 2
-        x: 288
+        x: 227
         y: 0
-        width: 96
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -268,6 +280,48 @@ TextureImporter:
       bones: []
       spriteID: 70099605f0ded784db7fd6db24f07d0f
       internalID: -1690156825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack_96x48_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30030aa748123d48bd670644d7665fd
+      internalID: 1286914868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack_96x48_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 17
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3a269d3d9f7104aacc199854993b4c
+      internalID: 258539849
       vertices: []
       indices: 
       edges: []
@@ -285,12 +339,14 @@ TextureImporter:
     nameFileIdTable:
       player_attack_96x48_1: 458315476
       player_attack_96x48_6: -1626890931
+      player_attack_96x48_9: 258539849
       player_attack_96x48_7: -1690156825
       player_attack_96x48_2: 434411932
       player_attack_96x48_3: -1749011574
       player_attack_96x48_5: -1676822071
       player_attack_96x48_0: 1373724206
       player_attack_96x48_4: -463733699
+      player_attack_96x48_8: 1286914868
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
